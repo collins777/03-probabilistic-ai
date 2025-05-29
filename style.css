@@ -1,0 +1,52 @@
+body {
+  font-family: "Roboto", sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f8f1e4;
+  color: #333;
+}
+header {
+  background-color: #d4a373;
+  color: #fff;
+  padding: 1rem;
+  text-align: center;
+}
+nav ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
+nav a {
+  text-decoration: none;
+  color: #fff;
+}
+#hero {
+  text-align: center;
+  padding: 2rem;
+  background-color: #e8dcc2;
+}
+#hero img {
+  max-width: 100%;
+  height: auto;
+}
+#menu {
+  padding: 2rem;
+  background-color: #f4e3d7;
+}
+.dish {
+  margin-bottom: 1rem;
+}
+#contact {
+  text-align: center;
+  padding: 2rem;
+  background-color: #d4a373;
+}
+button {
+  background-color: #333;
+  color: #fff;
+  border: none;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+}
